@@ -1,9 +1,9 @@
 Scrabble Points Generator
 
-Made for Advance Java Assignment 2
+Made for Advanced Java Assignment 2
+December 2019 
+Owen Brown
 
-December 2019
 
 
-
-All source code can be found in Scrabble-Points_Generator/src
+All source code can be found in "Scrabble Points Generator/src"
