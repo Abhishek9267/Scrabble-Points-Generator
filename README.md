@@ -1,8 +1,12 @@
 Scrabble Points Generator
 
+
 Made for Advanced Java Assignment 2
+
 December 2019 
+
 Owen Brown
+
 
 
 
